@@ -23,7 +23,7 @@ Prevalensi kasus gizi buruk pada bayi khususnya di Jawa Barat menjadi pilihan ke
 ## **Wrangling Data**
 Karena kami menggunakan Tableau sebagai platform visualisasi data, kami menyatukan tiga dataset menggunakan excel dan berikut hasil akhirnya:
 
-[](https://drive.google.com/file/d/1ebAwVMz_NVWjRHBmbIbYMRVUlsRTit4v/view?usp=sharing)
+[](https://drive.google.com/uc?id=1ebAwVMz_NVWjRHBmbIbYMRVUlsRTit4v)
 
 
 ## **Exploratory Data Analysis (EDA)**
