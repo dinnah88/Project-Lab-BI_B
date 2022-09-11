@@ -25,7 +25,6 @@ Karena kami menggunakan Tableau sebagai platform visualisasi data, kami menyatuk
 
 ![](https://drive.google.com/uc?id=1ebAwVMz_NVWjRHBmbIbYMRVUlsRTit4v)
 
-
 ## **Exploratory Data Analysis (EDA)**
 Untuk menampilkan data Angka Gizi Buruk tiap daerah, kami menggunakan geographical data shp dari GADM36 IDN. Data tersebut kami connect langsung di Tableau, sehingga grafik berupa peta dapat langsung ditampilkan. Selain itu, kami menampilkan angka statistik rerata dari tiap Kota-Kabupaten dan menjadikan peta sebagai filternya. Bar chart yang membandingkan Angka Gizi Buruk dengan Angka Kehamilan Ibu juga mengikuti perubahan sesuai Kota-Kabupaten yang dipilih. Perbandingan tersebut juga kami sajikan dalam bentuk scatter plot dan menampilkan garis linear regresi untuk melihat korelasi antar variabel data tersebut.
 
@@ -42,6 +41,7 @@ Saat dasbor dibuka, user dapat memilih periode tahun keseluruhan, 2016, 2017, hi
 
 ## **Analysis**
 Pada dasbor Aku Anak Sehat, terlihat persebaran angka gizi buruk pada bayi di Jawa Barat berdasarkan intensitas warna dari yang paling gelap (tinggi) ke yang paling cerah (rendah). Kabupaten Bogor menjadi daerah dengan angka gizi buruk tertinggi. Dilihat dari statistik serta grafik pendukungnya, pada tahun 2017 terjadi peningkatan signifikan pada angka gizi buruk bayi dibanding tahun 2016 maupun 2018. Peningkatan sebanyak 3,120 dalam waktu satu tahun tersebut perlu ditelaah lebih lanjut baik secara kualitatif maupun kuantitatif oleh petugas di lapangan agar faktor penentu terjadinya peningkatan tersebut dapat ditemukan dan diatasi secara tepat. Pada grafik model linear di bawahnya, kami memunculkan kalkulasi serta statistik dari korelasi antara rerata Angka Gizi Buruk dengan Angka Kehamilan Ibu (grafik di kanan bawah). Meski R-squared menunjukkan hasil 0.43 yang berarti tidak berkorelasi kuat, kami ingin menunjukkan bahwa faktor penentu terjadinya angka gizi buruk tentu lebih luas dan kompleks, melibatkan kepercayaan masyarakat tentang pengasuhan anak, pendidikan kedua orang tua, dan faktor lainnya.
+
 ![](https://drive.google.com/uc?id=1C3lRtPyd2jyvUHjQ-z17ITO8GYhcOYj4)
 
 
