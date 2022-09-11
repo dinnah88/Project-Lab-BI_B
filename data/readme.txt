@@ -1,0 +1,1 @@
+Wrangled group b berisi dataset gabungan yang terdiri dari Angka Gizi Buruk pada Bayi, Angka Kehamilan Ibu, dan Indeks Kesehatan dari Open Jabar.
