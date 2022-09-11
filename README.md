@@ -51,11 +51,11 @@ Hasil analisis dari dashboard berupa pemetaan prioritas daerah mana yang memerlu
 
 ## **Pendukung**
 
-Sumber data:
+- Sumber data:
    - [Gizi Buruk pada Bayi](https://opendata.jabarprov.go.id/id/dataset/jumlah-bayi-bergizi-buruk-berdasarkan-kabupatenkota-di-jawa-barat)
    - [Angka Kehamilan Ibu](https://opendata.jabarprov.go.id/id/dataset/jumlah-ibu-hamil-berdasarkan-kabupatenkota-di-jawa-barat)
    - [Indeks Kesehatan](https://opendata.jabarprov.go.id/id/dataset/indeks-kesehatan-berdasarkan-kabupatenkota-di-jawa-barat)
-Prototype: [Figma](https://www.figma.com/file/rmsBXPltBVxcz7l9zXFdqT/PLBI-1-Kelompok-B?node-id=0%3A1)
+- Prototype: [Figma](https://www.figma.com/file/rmsBXPltBVxcz7l9zXFdqT/PLBI-1-Kelompok-B?node-id=0%3A1)
 
 
 ## **Reference**
