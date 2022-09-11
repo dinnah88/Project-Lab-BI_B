@@ -36,13 +36,13 @@ Saat dasbor dibuka, user dapat memilih periode tahun keseluruhan, 2016, 2017, hi
 	Pada grafik di bawah peta, kami menghadirkan 10 kota-kabupaten tertinggi dengan angka gizi buruk pada bayi. Grafik ini memberikan gambaran kota yang harus diprioritaskan pembuat kebijakan.
 	Di kanan atas, tersedia statistik Angka Gizi Buruk, Angka Kehamilan Ibu, serta Indeks Kesehatan di Jawa Barat secara keseluruhan, juga dapat dilihat statistik setiap kota kabupaten dengan cara mengklik setiap kota-kabupaten di peta. User dapat melihat perbandingan angka gizi buruk dengan kehamilan ibu (dibagi 100) secara keseluruhan maupun setiap tahun yang dipilih. Dan di bawahnya, user dapat melihat korelasi antara angka gizi buruk, dengan kehamilan ibu maupun indeks kesehatan. Kami menyajikan garis linear model dan menampilkan kalkulasi garis model tersebut agar peneliti kesehatan dapat mendapat insight seberapa korelatif semua data tersebut.
 
-[](https://drive.google.com/file/d/1LqQtLv3v9A_sXrWAK2O679mp8xszKsAh/view?usp=sharing)
+![](https://drive.google.com/uc?id=1LqQtLv3v9A_sXrWAK2O679mp8xszKsAh)
 [Dashboard AKU ANAK SEHAT](https://public.tableau.com/app/profile/bow6761/viz/pered/AKUANAKSEHAT)
 
 
 ## **Analysis**
 Pada dasbor Aku Anak Sehat, terlihat persebaran angka gizi buruk pada bayi di Jawa Barat berdasarkan intensitas warna dari yang paling gelap (tinggi) ke yang paling cerah (rendah). Kabupaten Bogor menjadi daerah dengan angka gizi buruk tertinggi. Dilihat dari statistik serta grafik pendukungnya, pada tahun 2017 terjadi peningkatan signifikan pada angka gizi buruk bayi dibanding tahun 2016 maupun 2018. Peningkatan sebanyak 3,120 dalam waktu satu tahun tersebut perlu ditelaah lebih lanjut baik secara kualitatif maupun kuantitatif oleh petugas di lapangan agar faktor penentu terjadinya peningkatan tersebut dapat ditemukan dan diatasi secara tepat. Pada grafik model linear di bawahnya, kami memunculkan kalkulasi serta statistik dari korelasi antara rerata Angka Gizi Buruk dengan Angka Kehamilan Ibu (grafik di kanan bawah). Meski R-squared menunjukkan hasil 0.43 yang berarti tidak berkorelasi kuat, kami ingin menunjukkan bahwa faktor penentu terjadinya angka gizi buruk tentu lebih luas dan kompleks, melibatkan kepercayaan masyarakat tentang pengasuhan anak, pendidikan kedua orang tua, dan faktor lainnya.
-[](https://drive.google.com/file/d/1C3lRtPyd2jyvUHjQ-z17ITO8GYhcOYj4/view)
+![](https://drive.google.com/uc?id=1C3lRtPyd2jyvUHjQ-z17ITO8GYhcOYj4)
 
 
 ## **Conclusion**
